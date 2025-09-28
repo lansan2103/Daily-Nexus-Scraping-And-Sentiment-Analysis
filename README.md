@@ -1,2 +1,2 @@
 # nexus-scraping
-Follow up to the DEI Analysis from last year
+Follow up to the Daily Nexus DEI content analysis from last year
